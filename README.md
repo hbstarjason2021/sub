@@ -2,6 +2,8 @@
 
 copy https://github.com/RenaLio/proxy-minging/
 
+https://github.com/zpaoye/collectSub
+
 ## 说明
 
 Config.yaml	--- 爬取源
